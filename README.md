@@ -1,0 +1,1 @@
+# django_heruku_deployed_project
